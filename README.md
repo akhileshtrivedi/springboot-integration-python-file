@@ -35,6 +35,6 @@ Open your web browser and navigate to http://localhost:8080.
 You can use the Swagger UI to test the python script.
 
 
-![alt text](custom-validation.png?raw=true)
+![alt text](Spring-Python.png?raw=true)
 
 # Thank You!
