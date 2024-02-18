@@ -1,4 +1,4 @@
-# Spring Boot 3 Integration with Python script
+# Spring Boot 3 Integration with Python script(.py file)
 
 This repository demonstrates how to integrate a Python file into a Spring Boot 3 application ( Web and Standalone Application ) . By combining the capabilities of Spring Boot with Python, you can leverage the strengths of both ecosystems in a single project.
 
